@@ -1,0 +1,6 @@
+﻿  Button.cpp
+F:\M5\ShipRace\ShipRace\Button.cpp(22,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  game.cpp
+  main.cpp
+  Generando código...
+  ShipRace.vcxproj -> F:\M5\ShipRace\x64\Debug\ShipRace.exe
